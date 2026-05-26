@@ -32,3 +32,10 @@ Tem a função de um menu que vai conter todas as 5 opções que foram descritas
 7 - main:
 Roda o código no Visual studio.
 
+# Como Rodar 
+1 - instale o vs code 
+2 - baixe os 7 arquivos da qui do git hub (que não seja o README)
+3 - coloque todos esses aquivos no vs code já instalado
+4 - para rodar vá no main e rode 
+
+Agora é só utilizar normalmente, obrigado pela compreensão senhora professora e esse é meu trabalho. 
