@@ -41,7 +41,7 @@ Roda o código no Visual studio.
 
 4 - para rodar vá no main e rode 
 
-Agora é só utilizar normalmente, obrigado pela compreensão senhora professora e esse é meu trabalho. 
+Agora é só utilizar normalmente, obrigado pela compreensão senhora professora e esse é meu codigo. 
 
 # Observações
 Este sistema foi feito no vs code pois no colab estava muito ruim 
