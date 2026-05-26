@@ -1,6 +1,6 @@
 from cadastro_de_produtos import estoque
 def alertar_estoque_baixo(limite):
-    print("\n=== -Estoque Baixo- ===")
+    print("\n=== -Alerta Produto Com Estoque Baixo- ===")
 
     encontrou = False
 
