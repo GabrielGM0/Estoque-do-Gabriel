@@ -45,3 +45,5 @@ Agora é só utilizar normalmente, obrigado pela compreensão senhora professora
 
 # Observações
 Este sistema foi feito no vs code pois no colab estava muito ruim 
+
+Grupo: apenas eu mesmo 🙂
