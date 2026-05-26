@@ -39,11 +39,11 @@ Roda o código no Visual studio.
 
 3 - coloque todos esses aquivos no vs code já instalado
 
-4 - para rodar vá no main e rode 
+4 - para rodar o código, vá em main e rode o código 
 
 Agora é só utilizar normalmente, obrigado pela compreensão senhora professora e esse é meu codigo. 
 
 # Observações
-Este sistema foi feito no vs code pois no colab estava muito ruim 
+Este sistema foi feito no visual studio
 
-Grupo: apenas eu mesmo 🙂
+Grupo: Gabriel Oliveira
