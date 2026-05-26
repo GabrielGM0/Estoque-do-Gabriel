@@ -3,7 +3,10 @@ Um sistema desenvolvida para ser um gerenciamento/controle de estoque de produto
 
 # **Funcionalidades**
 1  Cadastro de produtos
+
 2  Atualização de produtos (Entrada e Saida)
+
 3  Consulta de produtos 
+
 4  Alerta de estoque baixo
 
