@@ -36,8 +36,9 @@ def menu():
             quantidade = int(input("Quantidade de saída: "))
             registrar_saida(produto, quantidade)
 
-        elif opcao == "4":
-             consultar_estoque()
+        elif opcao == '4':
+            produto_consulta = input("Digite o nome do produto: ")
+            consultar_estoque(produto_consulta)
 
         elif opcao == "5":
             limite = int(input("Limite mínimo: "))
